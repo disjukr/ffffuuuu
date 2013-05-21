@@ -1,0 +1,9 @@
+{
+  "name": "ffffuuuu",
+  "url": "https://github.com/disjukr/ffffuuuu",
+  "license": "BSD",
+  "description": "A brainfuck interpreter",
+  "version": "0.0.1",
+  "releasenote": "Initial release",
+  "contributors": ["disjukr"]
+}
